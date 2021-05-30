@@ -199,6 +199,12 @@ body {
 }
 
 @media screen and(max-width:320px) {
+    .site-content h1 {
+        font-size: 30px;
+    }
+    .site-content p {
+        font-size: 13px;
+    }
     .site-content .site-title {
         font-size: 30px;
         padding: 15%;
