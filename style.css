@@ -184,6 +184,12 @@ body {
 }
 
 @media screen and (max-width:750px) {
+    .site-content h1 {
+        font-size: 30px;
+    }
+    .site-content p {
+        font-size: 13px;
+    }
     .section-1 .card {
         width: 14rem;
     }
